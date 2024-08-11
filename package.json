@@ -1,0 +1,17 @@
+{
+  "name": "webtech",
+  "version": "1.0.0",
+  "description": "express by karishma",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karishma",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "hbs": "^4.2.0",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
